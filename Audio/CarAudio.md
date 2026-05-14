@@ -463,7 +463,7 @@ Car Audio 模块采用分层架构设计：
 # Car Audio 服务代码梳理
 
 ## 目录位置
-`/home/kongchaochao/work/3QK/buildsystem/android12/packages/services/Car/service/src/com/android/car/audio/`
+`/home/.../android12/packages/services/Car/service/src/com/android/car/audio/`
 
 ## 一、整体架构概述
 
